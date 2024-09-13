@@ -3,6 +3,8 @@ import { Text, View, StyleSheet, Button } from "react-native";
 import ListaProdutos from "./Componentes/Adaptadores/ListaProdutos";
 import axios from 'axios'
 import { useEffect } from "react";
+import CadastroProduto from "./Componentes/Adaptadores/CadastroProduto";
+
 
 
 
